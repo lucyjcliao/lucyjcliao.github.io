@@ -100,11 +100,11 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
-  industry_experience:
+  work_experience:
     defaults:
       layout: post
     output: true
-    permalink: /industry/:path/
+    permalink: /work/:path/
   projects:
     output: true
     permalink: /projects/:path/

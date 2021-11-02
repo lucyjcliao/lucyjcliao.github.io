@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Prospective Ph.D. Student in EE/ECE
+description: Prospective Ph.D. Student
 
 profile:
   align: right
@@ -13,7 +13,7 @@ profile:
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-industry_experience: true # includes a list of work experiences
+work_experience: true # includes a list of work experiences
 social: true  # includes social icons at the bottom of the page
 ---
 
@@ -23,9 +23,11 @@ I previously received my master's degree in [Graduate Institute of Communication
 University](https://www.ntu.edu.tw/english/) in 2021, where I was fortunate to work with Prof. 
 [Char-Dir Chung](https://www.ee.ntu.edu.tw/profile1.php?teacher_id=901162) on channel estimaiton and data decision.
 I also received my bachelor’s degree in [Department of Communication Engineering](http://www.ce.ncu.edu.tw/english/index.html) at 
-[National Central University](https://www.ncu.edu.tw/en/index) in 2019.
+[National Central University](https://www.ncu.edu.tw/en/index) as the valedictorian of my department in 2019.
+
+:mortar_board:  Check my [Master Thesis](/assets/pdf/master_thesis.pdf)
 
 My current research interests include wireless communications and signal processing.
 
-check my [CV](example_pdf.pdf)
-check my 
+
+

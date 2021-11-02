@@ -1,17 +1,17 @@
-<div class="industry_experience">
-    <h2>Industry Experience</h2>
-    {% if site.industry_experience  %}
+<div class="work_experience">
+    <h2>Work Experience</h2>
+    {% if site.work_experience  %}
       <div class="table-responsive">
         <table class="table table-sm table-borderless">
-        {% assign industry_experience = site.industry_experience | reverse %}
-        {% for item in industry_experience limit: site.industry_experience_limit %}
+        {% assign work_experience = site.work_experience | reverse %}
+        {% for item in work_experience limit: site.work_experience_limit %}
           <tr>
             <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
             <td>
               {% if item.inline %}
                 {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
               {% else %}
-                <a class="industry_experience-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                <a class="work_experience-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
               {% endif %}
             </td>
           </tr>
