@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 work_experience: true # includes a list of work experiences
 social: true  # includes social icons at the bottom of the page
 ---
-
+## About Me
 Hi! My name is Jy-Chin Liao (廖芝青 in Chinese). 
 
 I previously received my master's degree in [Graduate Institute of Communication Engineering](https://comm.ntu.edu.tw/en/) at [National Taiwan 
@@ -26,6 +26,11 @@ I also received my bachelor’s degree in [Department of Communication Engineeri
 [National Central University](https://www.ncu.edu.tw/en/index) as the valedictorian of my department in 2019.
 
 My current research interests include wireless communications and signal processing.
+
+## Work Experience
+- Summer Intern @**MediaTek**
+- Interim Engineering Intern @**Qualcomm** Taiwan
+- Summer Intern @**Keysight Technologies** Taiwan 
 
 
 
