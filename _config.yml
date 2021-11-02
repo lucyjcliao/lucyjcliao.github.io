@@ -100,11 +100,6 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
-  work_experience:
-    defaults:
-      layout: post
-    output: true
-    permalink: /work/:path/
   projects:
     output: true
     permalink: /projects/:path/
