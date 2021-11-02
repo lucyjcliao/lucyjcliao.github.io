@@ -40,6 +40,10 @@ layout: default
       {% include selected_papers.html %}
     {% endif %}
 
+    {% if page.industry_experience %}
+      {% include industry_experience.html %}
+    {% endif %}
+
     {% if page.social %}
     <div class="social">
       <div class="contact-icons">
