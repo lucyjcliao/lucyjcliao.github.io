@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: Prospective Ph.D. Student in EE/ECE
 
 profile:
   align: right
@@ -11,18 +11,21 @@ profile:
     <p>+886 988762344</p>
     <p>Hsinchu City, Taiwan</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 industry_experience: true # includes a list of work experiences
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! My name is Jy-Chin Liao (廖芝青 in Chinese).
+Hi! My name is Jy-Chin Liao (廖芝青 in Chinese). 
 
-Previously, I received my master's degree in [Graduate Institute of Communication Engineering](https://comm.ntu.edu.tw/en/) at [National Taiwan 
-University](https://www.ntu.edu.tw/english/) under the supervision of Prof. [Chair-Dir Chung](https://www.ee.ntu.edu.tw/profile1.php?teacher_id=901162).
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I previously received my master's degree in [Graduate Institute of Communication Engineering](https://comm.ntu.edu.tw/en/) at [National Taiwan 
+University](https://www.ntu.edu.tw/english/) in 2021, where I was fortunate to work with Prof. 
+[Char-Dir Chung](https://www.ee.ntu.edu.tw/profile1.php?teacher_id=901162) on channel estimaiton and data decision.
+I also received my bachelor’s degree in [Department of Communication Engineering](http://www.ce.ncu.edu.tw/english/index.html) at 
+[National Central University](https://www.ncu.edu.tw/en/index) in 2019.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My current research interests include wireless communications and signal processing.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+check my [CV](example_pdf.pdf)
+check my 
