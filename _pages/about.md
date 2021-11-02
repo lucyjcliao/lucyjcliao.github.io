@@ -12,11 +12,16 @@ profile:
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
+work_experiences: true # includes a list of work experiences
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+Hi! My name is Jy-Chin Liao (廖芝青 in Chinese).
+
+Previously, I received my master's degree in [Graduate Institute of Communication Engineering](https://comm.ntu.edu.tw/en/) at [National Taiwan 
+University](https://www.ntu.edu.tw/english/) under the supervision of Prof. [Chair-Dir Chung](https://www.ee.ntu.edu.tw/profile1.php?teacher_id=901162).
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
