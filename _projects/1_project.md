@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Performance Analysis of GLRT-Based SIMO-OFDM Demodulation System With Pilot-Aided Channel Estimation
-description: a project with a background image
+description: A project with a background image
 img: assets/img/12.jpg
 importance: 1
 category: work
