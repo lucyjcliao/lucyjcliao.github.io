@@ -25,8 +25,6 @@ University](https://www.ntu.edu.tw/english/) in 2021, where I was fortunate to w
 I also received my bachelor’s degree in [Department of Communication Engineering](http://www.ce.ncu.edu.tw/english/index.html) at 
 [National Central University](https://www.ncu.edu.tw/en/index) as the valedictorian of my department in 2019.
 
-:mortar_board:  Check my [Master Thesis](/assets/pdf/master_thesis.pdf)
-
 My current research interests include wireless communications and signal processing.
 
 
