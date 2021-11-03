@@ -18,7 +18,7 @@ We assumed all channel path coefficients are independent but not necessarily ide
 
 #### Random Block Dispersive Channel
 
- the communication time is relatively long in a low-to-medium mobility environment, the block dispersive channel is virtually random in the manner that multiple chan- nel paths are fixed within one OFDM block but they exhibit short coherence times not shorter than the block time.
+ When the communication time is relatively long in a low-to-medium mobility environment, the block dispersive channel is virtually random in the manner that multiple channel paths are fixed within one OFDM block but they exhibit short coherence times not shorter than the block time.
 
 
 Here, the random block dispersive channel is modeled as the multipath Rician fading channel similar in [2].
