@@ -10,7 +10,7 @@ importance: 2
 
 In this project, pilot-aided OFDM is integrated with SIMO antennas to enable reliable symbol decision based on the principle of generalized likelihood ratio test (GLRT) [[1]](#references) and the resultant system, which is dubbed GLRT-based SIMO-OFDM herein, is intended to provide prevailing error performance characteristics over **random block dispersive channels**, without the a priori knowledge of channel statistic.
 
-We assumed all channel path coefficients are independent but not necessarily identically distributed. In this case, the [conditional BEP upper bound](projects/thesis1.md) is averaged over the joint density of CIRs to yield the upper bound to the average BEP.
+We assumed all channel path coefficients are independent but not necessarily identically distributed. In this case, the [conditional BEP upper bound](https://lucyliao1997.github.io/projects/thesis1/) is averaged over the joint density of CIRs to yield the upper bound to the average BEP.
 
 #### Average BEP Upper Bound
 
@@ -44,6 +44,7 @@ Here, the random block dispersive channel is modeled as the multipath Rician fad
     (3)BEP characteristic with 16-ary QAM
 </div>
 
+---
 ##### References
 [1] [H. L. Van Trees, Detection, Estimation, and Modulation Theory. John Wiley & Sons, 1968.](https://www.wiley.com/en-us/Detection+Estimation+and+Modulation+Theory%2C+Part+I%3A+Detection%2C+Estimation%2C+and+Filtering+Theory%2C+2nd+Edition-p-9780470542965)
 
