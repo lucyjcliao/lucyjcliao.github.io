@@ -7,7 +7,7 @@ first_name: Jy-Chin
 middle_name: (Lucy)
 last_name: Liao
 email: lucyliao1997@gmail.com
-description: Personal Website # the ">" symbol means to ignore newlines until "footer_text:"
+description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal Website
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
