@@ -39,9 +39,9 @@ Here, the random block dispersive channel is modeled as the multipath Rician fad
   </div>
 </div>
 <div class="caption">
-    (1)Fourier power spectrums of random block dispersive channel channels
-    (2)BEP characteristic with QPSK
-    (3)BEP characteristic with 16-ary QAM
+    (1) Fourier power spectrums of random block dispersive channel channels
+    (2) BEP characteristic with QPSK
+    (3) BEP characteristic with 16-ary QAM
 </div>
 
 ---

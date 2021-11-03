@@ -10,7 +10,7 @@ importance: 3
 
 The BEP characteristic of the SIMO GLRT receiver depends strongly on the power allocation to pilot symbols. When the larger pilot power is allocated, the better pilot-aided channel estimation is achieved and this entails the better BEP performance even for a fixed received bit DNR. Because the BEP performance improves with an increasing data power as well, there exists an optimum DPR $$\varphi^{(opt)}$$ when the total power allocated to the entire OFDM block is fixed.
 
-In this project, I adopted curve fitting method [[1]](#references) to quickly obtained the optimum data-to-pilot power ratio (DPR) $$\varphi^{(opt)}$$.
+In this project, I adopted curve fitting method [[1]](#references) to quickly obtained the optimum data-to-pilot power ratio (DPR) $$\varphi^{(opt)}$$ for both conditional BEP upper bound and average BEP upper bound.
 
 #### Polynomial Functions
 
@@ -21,8 +21,8 @@ In this project, I adopted curve fitting method [[1]](#references) to quickly ob
 {% responsive_image path: assets/img/project_thesis3/table2.png title: "Rician channel" class: "img-fluid"%}
 </div>
 <div class="caption">
-    (1)Polynomial function over fixed block dispersive channel
-    (2)Polynomial function over i.n.i.d. random block dispersive channel
+    (1) Polynomial function over fixed block dispersive channel
+    (2) Polynomial function over i.n.i.d. random block dispersive channel
 </div>
 
 

@@ -36,9 +36,9 @@ Here, the fixed block dispersive channel is modeled as the exponential delay spr
   </div>
 </div>
 <div class="caption">
-    (1)Fourier power spectrums of fixed block dispersive channel channels
-    (2)BEP characteristic with QPSK
-    (3)BEP characteristic with 16-ary QAM
+    (1) Fourier power spectrums of fixed block dispersive channel channels
+    (2) BEP characteristic with QPSK
+    (3) BEP characteristic with 16-ary QAM
 </div>
 
 ---
