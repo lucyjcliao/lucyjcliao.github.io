@@ -14,7 +14,7 @@ We assumed all channel path coefficients are independent but not necessarily ide
 
 #### Average BEP Upper Bound
 
-<div class="w-75 p-3" style="background-color: #FFF;">{% responsive_image path: assets/img/project_thesis2/BEPP.png title: "Average BEP upper bound" class: "img-fluid"%}</div>
+<div class="w-100 p-3" style="background-color: #FFF;">{% responsive_image path: assets/img/project_thesis2/BEPP.png title: "Average BEP upper bound" class: "img-fluid"%}</div>
 
 #### Random Block Dispersive Channel
 

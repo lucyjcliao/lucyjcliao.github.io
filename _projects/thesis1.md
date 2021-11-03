@@ -12,7 +12,7 @@ In this project, pilot-aided OFDM is integrated with SIMO antennas to enable rel
 
 #### Conditional BEP Upper Bound
 
-<div class="w-75 p-3" style="background-color: #FFF;">{% responsive_image path: assets/img/project_thesis1/BEPP.png title: "Conditional BEP upper bound" class: "img-fluid"%}</div>
+<div class="w-100 p-3" style="background-color: #FFF;">{% responsive_image path: assets/img/project_thesis1/BEPP.png title: "Conditional BEP upper bound" class: "img-fluid"%}</div>
 
 #### Fixed Block Dispersive Channel
 When the communication time is very short in a stationary environment, the block dispersive channel is plausibly fixed only over a few blocks. A typical example is the short-packet uplink communication in the internet- of-things application [[2]](#references), where the few OFDM blocks contained in a packet experience fixed channel dispersion and require pilot-aided channel estimation to assist nearly coherent data decision within the same block.
