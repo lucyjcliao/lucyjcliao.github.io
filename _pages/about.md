@@ -27,10 +27,24 @@ I also received my bachelor’s degree in [Department of Communication Engineeri
 
 My current research interests include wireless communications and signal processing.
 
+---
+
+## Education
+###### **National Taiwan University (NTU)**
+M.S. in Graduate Institute of Communication Engineering
+- Advisor: Prof. Char-Dir Chung
+- GPA: **4.2/4.3**
+
+###### **National Central University (NCU)**
+B.S. in Department of Communication Engineering 
+- GPA: 86.44/100 **(Rank: 3/57)**
+
+---
+
 ## Work Experience
 - Summer Intern @**MediaTek**
 - Interim Engineering Intern @**Qualcomm** Taiwan
 - Summer Intern @**Keysight Technologies** Taiwan 
 
-
+---
 
