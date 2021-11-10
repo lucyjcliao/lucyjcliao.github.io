@@ -33,7 +33,7 @@ My current research interests include wireless communications and signal process
 ###### **National Taiwan University (NTU)**
 M.S. in Graduate Institute of Communication Engineering
 - Advisor: Prof. Char-Dir Chung
-- GPA: **4.2/4.3**
+- GPA: **4.21/4.3**
 
 ###### **National Central University (NCU)**
 B.S. in Department of Communication Engineering 
