@@ -38,7 +38,7 @@ M.S. in Graduate Institute of Communication Engineering
 ###### **National Central University (NCU)**
 B.S. in Department of Communication Engineering 
 - GPA: 86.44/100
-- Valedictorian of Communication Engineering Department (Rank 1 for seven semesters)
+- Valedictorian of Communication Engineering Department (**Rank 1** for seven semesters)
 
 ---
 
