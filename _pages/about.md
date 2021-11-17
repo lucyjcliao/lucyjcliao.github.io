@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   address: >
     <p>+886 988762344</p>
-    <p>Hsinchu City, Taiwan</p>
+    <p>Hsinchu County, Taiwan</p>
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
