@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /fav/
-title: fav
-description: My favorite things in the world <3
-nav: true
+title: favorite
+description: 
+nav: false
 nav_order: 4
 ---
 My favorite food is cheesecake.
