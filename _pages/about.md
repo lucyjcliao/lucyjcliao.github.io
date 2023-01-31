@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: First-year PhD Student @Rice
+description: first-year PhD Student @Rice
 
 profile:
   align: right
