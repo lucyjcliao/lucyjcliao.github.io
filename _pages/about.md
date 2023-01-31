@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-description: Prospective Ph.D. Student
+description: First-year PhD Student @Rice
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>+886 988762344</p>
-    <p>Hsinchu County, Taiwan</p>
+    <p>Lucy.Liao@rice.edu</p>
+    <p>Houston, TX</p>
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
