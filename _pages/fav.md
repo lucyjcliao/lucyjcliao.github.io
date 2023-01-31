@@ -4,9 +4,9 @@ permalink: /fav/
 title: favorite
 description: 
 nav: false
-nav_order: 4
+nav_order: 5
 ---
-My favorite food is cheesecake.
+My favorite food is [cheesecake](https://www.youtube.com/watch?v=tspdJ6hxqnc).
 
 My favorite cartoon characters is [Snoopy](https://www.peanuts.com/about/snoopy).
 
