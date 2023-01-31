@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>[Lucy dot Liao at rice dot edu]</p>
+    <p>email: Lucy.Liao@rice.edu(mailto:Lucy.Liao@rice.edu)</p>
     <p>Houston, TX</p>
 
 news: false  # includes a list of news items
@@ -26,13 +26,4 @@ at National Taiwan University, where I was fortunate to be advised by
 [Dr. Char-Dir Chung](https://www.ee.ntu.edu.tw/profile1.php?teacher_id=901162).
 I also received my bachelor’s degree in COMM at 
 National Central University.
-
----
-
-## Work Experience
-- Summer Intern @**MediaTek**
-- Interim Engineering Intern @**Qualcomm** Taiwan
-- Summer Intern @**Keysight Technologies** Taiwan 
-
----
 
