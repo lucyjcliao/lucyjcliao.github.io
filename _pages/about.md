@@ -17,28 +17,15 @@ work_experience: true # includes a list of work experiences
 social: true  # includes social icons at the bottom of the page
 ---
 ## About Me
-Hi! My name is Jy-Chin Liao (廖芝青 in Chinese). 
+Hi! I am a first-year PhD student in [Electrical and Computer Engineering](https://eceweb.rice.edu) at Rice University. Currently, I work with [Dr. Edward Knightly](https://knightly.rice.edu) at [Rice Networks Group](https://networks.rice.edu).
 
-I previously received my master's degree in [Graduate Institute of Communication Engineering](https://comm.ntu.edu.tw/en/) at [National Taiwan 
-University](https://www.ntu.edu.tw/english/) in 2021, where I was fortunate to be advised by Prof. 
+My current research interests include wireless communications and metasurface.
+
+I previously received my master's degree in Graduate Institute of Communication Engineering at National Taiwan 
+University in 2021, where I was fortunate to be advised by Prof. 
 [Char-Dir Chung](https://www.ee.ntu.edu.tw/profile1.php?teacher_id=901162) and worked on performance analysis of channel estimation and data decision.
-I also received my bachelor’s degree in [Department of Communication Engineering](http://www.ce.ncu.edu.tw/english/index.html) at 
-[National Central University](https://www.ncu.edu.tw/en/index) as the valedictorian of my department in 2019.
-
-My current research interests include wireless communications and signal processing.
-
----
-
-## Education
-###### **National Taiwan University (NTU)**
-M.S. in Graduate Institute of Communication Engineering
-- Advisor: Prof. Char-Dir Chung
-- GPA: **4.21/4.3**
-
-###### **National Central University (NCU)**
-B.S. in Department of Communication Engineering 
-- GPA: 86.44/100
-- Valedictorian of Communication Engineering Department (**Rank 1** for seven semesters)
+I also received my bachelor’s degree in Department of Communication Engineering at 
+National Central University as the valedictorian of my department in 2019.
 
 ---
 
