@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>email: Lucy.Liao@rice.edu(mailto:Lucy.Liao@rice.edu)</p>
+    <p>Contact: Lucy.Liao@rice.edu</p>
     <p>Houston, TX</p>
 
 news: false  # includes a list of news items
