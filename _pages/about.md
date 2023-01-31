@@ -22,10 +22,10 @@ Hi! I am a first-year PhD student in [Electrical and Computer Engineering](https
 My current research interests include wireless communications and metasurface.
 
 I previously received my master's degree in Graduate Institute of Communication Engineering at National Taiwan 
-University in 2021, where I was fortunate to be advised by Prof. 
+University, where I was fortunate to be advised by Prof. 
 [Char-Dir Chung](https://www.ee.ntu.edu.tw/profile1.php?teacher_id=901162) and worked on performance analysis of channel estimation and data decision.
 I also received my bachelor’s degree in Department of Communication Engineering at 
-National Central University as the valedictorian of my department in 2019.
+National Central University.
 
 ---
 
