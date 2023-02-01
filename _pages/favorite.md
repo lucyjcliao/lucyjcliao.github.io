@@ -10,7 +10,7 @@ nav: true
 
 ##### My favorite person is my Dad.
 ![Daddy](assets/img/dad.jpg)
-<div class="w-100 p-3" style="background-color: #FFF;">{% responsive_image path: assets/img/dad.jpg title: "Daddy" class: "img-fluid"%}</div>
+<div class="w-80 p-3" style="background-color: #FFF;">{% responsive_image path: assets/img/dad.jpg title: "Daddy" class: "img-fluid"%}</div>
 
 ##### My favorite cartoon characters is [Snoopy](https://www.peanuts.com/about/snoopy).
 
