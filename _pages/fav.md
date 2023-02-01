@@ -1,10 +1,9 @@
 ---
 layout: page
 permalink: /fav/
-title: fav
+title: my favorite
 description:
-nav: true
-nav_order: 4
+nav: false
 ---
 My favorite food is [cheesecake](https://www.youtube.com/watch?v=tspdJ6hxqnc).
 
