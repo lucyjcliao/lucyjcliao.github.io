@@ -5,7 +5,8 @@ title: favorite
 description:
 nav: true
 ---
-My favorite food is [cheesecake](https://www.youtube.com/watch?v=tspdJ6hxqnc).
+### My favorite food is cheesecake.
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/tspdJ6hxqnc/hqdefault.jpg)](https://www.youtube.com/watch?v=tspdJ6hxqnc)
 
 My favorite person is my Dad.
 
