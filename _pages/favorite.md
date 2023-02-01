@@ -6,7 +6,7 @@ description:
 nav: true
 ---
 ##### My favorite food is cheesecake.
-[![HOW TO MAKE CHEESECAKE](https://yt-embed.live/embed?v=tspdJ6hxqnc/640/360)](https://www.youtube.com/watch?v=tspdJ6hxqnc)
+[![HOW TO MAKE CHEESECAKE](https://yt-embed.live/embed?v=tspdJ6hxqnc)](https://www.youtube.com/watch?v=tspdJ6hxqnc)
 
 ##### My favorite person is my Dad.
 <div class="w-75 p-3" style="background-color: #FFF;">{% responsive_image path: assets/img/dad.jpg title: "Daddy" class: "img-fluid"%}</div>
