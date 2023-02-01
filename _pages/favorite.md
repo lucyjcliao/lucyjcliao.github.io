@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /fav/
-title: my favorite
+permalink: /favorite/
+title: my favorite...
 description:
 nav: false
 ---
