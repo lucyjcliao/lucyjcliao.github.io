@@ -6,10 +6,10 @@ description:
 nav: true
 ---
 ##### My favorite food is cheesecake.
-[![HOW TO MAKE CHEESECAKE](assets/img/dad.jpg)](https://www.youtube.com/watch?v=tspdJ6hxqnc)
+[![HOW TO MAKE CHEESECAKE](https://yt-embed.herokuapp.com/embed?v=tspdJ6hxqnc)](https://www.youtube.com/watch?v=tspdJ6hxqnc)
 
 ##### My favorite person is my Dad.
-[Daddy](assets/img/dad.jpg)
+![Daddy](assets/img/dad.jpg)
 
 ##### My favorite cartoon characters is [Snoopy](https://www.peanuts.com/about/snoopy).
 
