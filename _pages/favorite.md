@@ -6,11 +6,7 @@ description:
 nav: true
 ---
 ##### My favorite food is cheesecake.
- <iframe width="560" height="315"
-src="https://www.youtube.com/watch?v=tspdJ6hxqnc" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://yt-embed.herokuapp.com/embed?v=[tspdJ6hxqnc])](https://www.youtube.com/watch?v=tspdJ6hxqnc)
 
 ##### My favorite person is my Dad.
 
