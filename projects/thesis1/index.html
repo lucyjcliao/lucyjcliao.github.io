@@ -2,7 +2,7 @@
 <html>
 
   <head>
-    <meta http-equiv="refresh" content="3; url=https://lucyjcliao.github.io/" />
+    
     <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -12,7 +12,7 @@
   Jy-Chin (Lucy)  Liao
 
 
-  | Page not found
+  | Performance Analysis of GLRT-Based OFDM Demodulation System Over Fixed Block Dispersive Channel
 
 </title>
 <meta name="description" content="Personal Website
@@ -38,7 +38,7 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>💭</text></svg>">
 
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="canonical" href="/404.html">
+<link rel="canonical" href="/projects/thesis1/">
 
 
 
@@ -126,7 +126,8 @@
           
           
           
-          <li class="nav-item ">
+          </li>
+<li class="nav-item ">
               <a class="nav-link" href="/favorite/">
                 favorite
                 
@@ -175,12 +176,68 @@
       <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">Page not found</h1>
-    <p class="post-description">Looks like there has been a mistake. Nothing exists here.</p>
+    <h1 class="post-title">Performance Analysis of GLRT-Based OFDM Demodulation System Over Fixed Block Dispersive Channel</h1>
+    <p class="post-description">Master Thesis (1)</p>
   </header>
 
   <article>
-    <p>You will be redirected to the main page within 3 seconds. If not redirected, please click <a href="https://lucyjcliao.github.io/">here</a>.</p>
+    <p><img class="emoji" title=":point_right:" alt=":point_right:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png" height="20" width="20"> <a href="/assets/pdf/thesis_slides.pdf">Full Slides!</a></p>
+
+<p>In this project, pilot-aided OFDM is integrated with SIMO antennas to enable reliable symbol decision based on the principle of generalized likelihood ratio test (GLRT) <a href="#references">[1]</a> and the resultant system, which is dubbed GLRT-based SIMO-OFDM herein, is intended to provide prevailing error performance characteristics over <strong>fixed block dispersive channels</strong>, without the a priori knowledge of channel statistic.</p>
+
+<h4 id="conditional-bep-upper-bound">Conditional BEP Upper Bound</h4>
+
+<div class="w-100 p-3" style="background-color: #FFF;">
+
+
+<img class="img-fluid" src="/assets/resized/BEPP-800x385.png" srcset="    /assets/resized/BEPP-480x231.png 480w,    /assets/resized/BEPP-800x385.png 800w,/ assets/img/project_thesis1/BEPP.png 960w" title="Conditional BEP upper bound">
+</div>
+
+<h4 id="fixed-block-dispersive-channel">Fixed Block Dispersive Channel</h4>
+<p>When the communication time is very short in a stationary environment, the block dispersive channel is plausibly fixed only over a few blocks. A typical example is the short-packet uplink communication in the internet- of-things application <a href="#references">[2]</a>, where the few OFDM blocks contained in a packet experience fixed channel dispersion and require pilot-aided channel estimation to assist nearly coherent data decision within the same block.</p>
+
+<p>Here, the fixed block dispersive channel is modeled as the exponential delay spread (EDS) <a href="#references">[3]</a> channel.</p>
+
+<h4 id="performance-results">Performance Results</h4>
+
+<div class="container">
+  <div class="row">
+    <div class="col">
+      
+
+
+<img class="img-fluid" src="/assets/resized/fig1-800x814.png" srcset="    /assets/resized/fig1-480x488.png 480w,    /assets/resized/fig1-800x814.png 800w,/ assets/img/project_thesis1/fig1.png 988w" title="EDS channel">
+
+    </div>
+    <div class="col">
+      
+
+
+<img class="img-fluid" src="/assets/resized/fig2-800x791.png" srcset="    /assets/resized/fig2-480x475.png 480w,    /assets/resized/fig2-800x791.png 800w,/ assets/img/project_thesis1/fig2.png 1023w" title="BEP fig1">
+
+    </div>
+    <div class="col">
+      
+
+
+<img class="img-fluid" src="/assets/resized/fig3-800x791.png" srcset="    /assets/resized/fig3-480x475.png 480w,    /assets/resized/fig3-800x791.png 800w,/ assets/img/project_thesis1/fig3.png 1023w" title="BEP fig2">
+
+    </div>
+  </div>
+</div>
+<div class="caption">
+    (1) Fourier power spectrums of fixed block dispersive channel channels
+    (2) BEP characteristic with QPSK
+    (3) BEP characteristic with 16-ary QAM
+</div>
+
+<hr>
+<h5 id="references">References</h5>
+<p>[1] <a href="https://www.wiley.com/en-us/Detection+Estimation+and+Modulation+Theory%2C+Part+I%3A+Detection%2C+Estimation%2C+and+Filtering+Theory%2C+2nd+Edition-p-9780470542965" target="_blank" rel="noopener noreferrer">H. L. Van Trees, Detection, Estimation, and Modulation Theory. John Wiley &amp; Sons, 1968.</a></p>
+
+<p>[2] <a href="https://ieeexplore.ieee.org/document/8672179" target="_blank" rel="noopener noreferrer">H. Wang, Q. Yang, Z. Ding and H. V. Poor, “Secure short-packet communications for mission-critical IoT applications,” IEEE Trans. Wireless Commun., vol. 18, no. 5, pp. 2565–2578, Mar. 2019.</a></p>
+
+<p>[3] <a href="https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1071.8614&amp;rep=rep1&amp;type=pdf" target="_blank" rel="noopener noreferrer">H. Arslan and T. Yucek, “Delay spread estimation for wireless communication systems,” in Proc. IEEE 8th Int. Symp. Comput. and Commun., pp. 282-287, Kemer-Antalya, Turkey, Jul. 2003.</a></p>
 
   </article>
 

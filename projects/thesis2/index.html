@@ -2,7 +2,7 @@
 <html>
 
   <head>
-    <meta http-equiv="refresh" content="3; url=https://lucyjcliao.github.io/" />
+    
     <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -12,7 +12,7 @@
   Jy-Chin (Lucy)  Liao
 
 
-  | Page not found
+  | Performance Analysis of GLRT-Based OFDM Demodulation System Over Random Block Dispersive Channel
 
 </title>
 <meta name="description" content="Personal Website
@@ -38,7 +38,7 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>💭</text></svg>">
 
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="canonical" href="/404.html">
+<link rel="canonical" href="/projects/thesis2/">
 
 
 
@@ -126,7 +126,8 @@
           
           
           
-          <li class="nav-item ">
+          </li>
+<li class="nav-item ">
               <a class="nav-link" href="/favorite/">
                 favorite
                 
@@ -175,12 +176,69 @@
       <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">Page not found</h1>
-    <p class="post-description">Looks like there has been a mistake. Nothing exists here.</p>
+    <h1 class="post-title">Performance Analysis of GLRT-Based OFDM Demodulation System Over Random Block Dispersive Channel</h1>
+    <p class="post-description">Master Thesis (2)</p>
   </header>
 
   <article>
-    <p>You will be redirected to the main page within 3 seconds. If not redirected, please click <a href="https://lucyjcliao.github.io/">here</a>.</p>
+    <p><img class="emoji" title=":point_right:" alt=":point_right:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png" height="20" width="20"> <a href="/assets/pdf/thesis_slides.pdf">Full Slides!</a></p>
+
+<p>In this project, pilot-aided OFDM is integrated with SIMO antennas to enable reliable symbol decision based on the principle of generalized likelihood ratio test (GLRT) <a href="#references">[1]</a> and the resultant system, which is dubbed GLRT-based SIMO-OFDM herein, is intended to provide prevailing error performance characteristics over <strong>random block dispersive channels</strong>, without the a priori knowledge of channel statistic.</p>
+
+<p>We assumed all channel path coefficients are independent but not necessarily identically distributed. In this case, the <a href="https://lucyliao1997.github.io/projects/thesis1/" target="_blank" rel="noopener noreferrer">conditional BEP upper bound</a> is averaged over the joint density of CIRs to yield the upper bound to the average BEP.</p>
+
+<h4 id="average-bep-upper-bound">Average BEP Upper Bound</h4>
+
+<div class="w-100 p-3" style="background-color: #FFF;">
+
+
+<img class="img-fluid" src="/assets/resized/BEPP-800x374.png" srcset="    /assets/resized/BEPP-480x224.png 480w,    /assets/resized/BEPP-800x374.png 800w,/ assets/img/project_thesis2/BEPP.png 1242w" title="Average BEP upper bound">
+</div>
+
+<h4 id="random-block-dispersive-channel">Random Block Dispersive Channel</h4>
+
+<p>When the communication time is relatively long in a low-to-medium mobility environment, the block dispersive channel is virtually random in the manner that multiple channel paths are fixed within one OFDM block but they exhibit short coherence times not shorter than the block time.</p>
+
+<p>Here, the random block dispersive channel is modeled as the multipath Rician fading channel similar in [2].</p>
+
+<h4 id="performance-results">Performance Results</h4>
+
+<div class="container">
+  <div class="row">
+    <div class="col">
+      
+
+
+<img class="img-fluid" src="/assets/resized/fig7-800x799.png" srcset="    /assets/resized/fig7-480x480.png 480w,    /assets/resized/fig7-800x799.png 800w,/ assets/img/project_thesis2/fig7.png 1006w" title="Rician channel">
+
+    </div>
+    <div class="col">
+      
+
+
+<img class="img-fluid" src="/assets/resized/fig8-800x791.png" srcset="    /assets/resized/fig8-480x475.png 480w,    /assets/resized/fig8-800x791.png 800w,/ assets/img/project_thesis2/fig8.png 1023w" title="BEP fig3">
+
+    </div>
+    <div class="col">
+      
+
+
+<img class="img-fluid" src="/assets/resized/fig9-800x791.png" srcset="    /assets/resized/fig9-480x475.png 480w,    /assets/resized/fig9-800x791.png 800w,/ assets/img/project_thesis2/fig9.png 1023w" title="BEP fig4">
+
+    </div>
+  </div>
+</div>
+<div class="caption">
+    (1) Fourier power spectrums of random block dispersive channel channels
+    (2) BEP characteristic with QPSK
+    (3) BEP characteristic with 16-ary QAM
+</div>
+
+<hr>
+<h5 id="references">References</h5>
+<p>[1] <a href="https://www.wiley.com/en-us/Detection+Estimation+and+Modulation+Theory%2C+Part+I%3A+Detection%2C+Estimation%2C+and+Filtering+Theory%2C+2nd+Edition-p-9780470542965" target="_blank" rel="noopener noreferrer">H. L. Van Trees, Detection, Estimation, and Modulation Theory. John Wiley &amp; Sons, 1968.</a></p>
+
+<p>[2] <a href="https://www.researchgate.net/publication/3156754_QAM_Symbol_Error_Rate_in_OFDM_Systems_Over_Frequency-Selective_Fast_Ricean-Fading_Channels" target="_blank" rel="noopener noreferrer">R.-Y. Yen, H.Liu and W.-K.Tsai, “QAM symbol error rate in OFDM systems over frequency-selective fast Rician-fading channels,” IEEE Trans. Veh. Technol., vol. 57, no. 2, pp. 1322-1325, Mar. 2008.</a></p>
 
   </article>
 
