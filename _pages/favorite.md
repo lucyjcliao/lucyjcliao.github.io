@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /favorite/
-title: my favorite...
+title: favorite
 description:
 nav: false
 ---
