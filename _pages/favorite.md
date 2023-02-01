@@ -9,7 +9,7 @@ nav: true
 [![HOW TO MAKE CHEESECAKE](https://yt-embed.live/embed?v=tspdJ6hxqnc)](https://www.youtube.com/watch?v=tspdJ6hxqnc)
 
 ##### My favorite person is my Dad.
-<div class="w-25 p-3" style="background-color: #FFF;">{% responsive_image path: assets/img/dad.jpg title: "Daddy" class: "img-fluid"%}</div>
+<div class="w-50 p-3" style="background-color: #FFF;">{% responsive_image path: assets/img/dad.jpg title: "Daddy" class: "img-fluid"%}</div>
 
 ##### My favorite cartoon characters is Snoopy.
 <div class="w-100 p-3" style="background-color: #FFF;">{% responsive_image path: assets/img/snoopy.png title: "snoopy" class: "img-fluid"%}</div>
